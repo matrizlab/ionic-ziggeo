@@ -1,4 +1,4 @@
-# ionic-ziggeo
+# ionic4-ziggeo
 demo ionic4 ziggeo integration
 
 ionic start ionic-ziggeo sidemenu --angular
