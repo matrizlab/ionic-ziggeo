@@ -18,20 +18,32 @@ ionic g page VideoPlayer
 <p>Also make sure to grant the application access to storage, camera and microphone on the device.</p>
 
 >add cordova plugins
-ionic cordova plugin add cordova-plugin-file-transfer 
+
+ionic cordova plugin add cordova-plugin-file-transfer
+
 ionic cordova plugin add cordova-plugin-media-capture
+
 ionic cordova plugin add cordova-plugin-camera
+
 ionic cordova plugin add cordova-plugin-whitelist
+
 ionic cordova plugin add cordova-plugin-android-permissions
 
+
 npm install --save cordova-plugin-file-transfer
+
 npm install --save cordova-plugin-media-capture
+
 npm install --save cordova-plugin-camera
+
 npm install --save cordova-plugin-whitelist
+
 npm install --save cordova-plugin-android-permissions
 
 npx cap update
 
 ionic capacitor add android
+
 ionic capacitor copy android
+
 ionic capacitor run android
