@@ -1,0 +1,8 @@
+{
+  "name": "ionic-ziggeo",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}

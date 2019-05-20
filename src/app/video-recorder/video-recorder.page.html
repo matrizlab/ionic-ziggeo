@@ -1,0 +1,12 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>VideoRecorder</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+    <ziggeo-recorder #ziggeorecorder
+    [apiKey]="api_token"
+    [options]="{height: 200, width: 370}"
+   ></ziggeo-recorder>
+</ion-content>
