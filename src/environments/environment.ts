@@ -4,8 +4,6 @@
 
 export const environment = {
   production: false,
-  API_TOKEN: 'r1b1f41ed724ae562971cf0fc53b8454',
-  VIDEO_TOKEN: 'r1b1f41ed724ae562971cf0fc53b8454',
 };
 
 /*

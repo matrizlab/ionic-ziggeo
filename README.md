@@ -40,10 +40,6 @@ npm install --save cordova-plugin-whitelist
 
 npm install --save cordova-plugin-android-permissions
 
-npx cap update
 
-ionic capacitor add android
 
-ionic capacitor copy android
-
-ionic capacitor run android
+ionic cordova run android

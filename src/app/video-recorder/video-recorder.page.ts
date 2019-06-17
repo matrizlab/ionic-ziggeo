@@ -12,7 +12,7 @@ import {
 })
 export class VideoRecorderPage implements OnInit, AfterViewInit {
 
-  api_token = 'r1b1f41ed724ae562971cf0fc53b8454';
+    api_token = 'r12191ba2fd53c798278dd56ab4df612';
     recorder: any;
     @ViewChild('ziggeorecorder') ziggeorecorder: any;
 
